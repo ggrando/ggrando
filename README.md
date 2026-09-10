@@ -6,7 +6,11 @@ Senior Product Manager at [RD Station](https://www.rdstation.com/) (TOTVS group)
 
 🎓 Postgraduate degree in **Software Architecture** from [FIAP](https://www.fiap.com.br/). I enjoy the space between product and engineering: distributed systems, data modeling, APIs, and the decisions that make a platform scale (or not).
 
+<img src="assets/claude.gif" width="72" align="left" alt="Claude" />
+
 🤖 Enthusiast and self-declared fan of [Claude](https://claude.ai) — I use it every day to think, write and build. I'm passionate about creative, well-crafted technology: products with a clear concept, care for detail and an obsession with experience, the way Apple does it. I believe the best technology is the kind that disappears and leaves only the result.
+
+<br clear="left" />
 
 **Interests:** platform product management · software architecture · APIs & integrations · data at scale · AI applied to product · product design
 
